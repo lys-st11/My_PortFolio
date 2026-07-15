@@ -1,0 +1,6 @@
+{
+  "name": "Portfolio Professionnel",
+  "description": "Un portfolio web dynamique de page unique, moderne, rapide et entièrement adaptatif, avec séparation des données et une charte graphique sombre et élégante.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
